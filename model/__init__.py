@@ -1,0 +1,4 @@
+# from model.MyGestureProject_bata_V1_0.MyGestureProject_bata_V1_0 import MyGestureProject
+# from model.point_history_classifier.point_history_classifier import PointHistoryClassifier
+
+# MyGestureProject_bata_V1_0
